@@ -10,3 +10,5 @@ The emotion classifier was trained to detect the following emotions: ['Angry' , 
 Face Detection done by Caffe Resnet-SSD and  Face classification by CNN Keras. The face classification NN is trained on [Facial Expression Recognition dataset Challenge from Kaggle.](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
 Thanks a lot to  Adrian Rosebrock  for his great inspiring article on  [Face  Detection](https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
 
+The output will be automatically saved to folder Results as 2 videos, out1.avi which include the frames along with a bar graph for different emotions probabilities, the other file is out2.avi that  saves only the frame.  The code can handle multi faces however in this case the bar graph in out1.avi will not be relevant.
+
