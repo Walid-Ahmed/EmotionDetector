@@ -12,4 +12,4 @@ Thanks a lot to  Adrian Rosebrock  for his great inspiring article on  [Face  De
 
 The output will be automatically saved to folder Results as 2 videos, out1.avi which include the frames along with a bar graph for different emotions probabilities, the other file is out2.avi that  saves only the frame.  The code can handle multi faces however in this case the bar graph in out1.avi will not be relevant.
 
-![]()
+![](https://github.com/Walid-Ahmed/EmotionDetector/blob/master/sampleImage.png)
