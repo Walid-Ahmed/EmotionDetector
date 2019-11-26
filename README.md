@@ -1,8 +1,6 @@
 # Emotion Detector
 
-Usage
-
-python emotionDetector.py
+Usage : *python emotionDetector.py*
 
 
 This python script apply face detection to a live stream from camera and then each face is assigned a label based on emotion classifier.
