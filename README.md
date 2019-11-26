@@ -8,5 +8,5 @@ This python script apply face detection to a live stream from camera and then ea
 The emotion classifier was trained to detect the following emotions: ['Angry' , 'Disgust' ,'Fear', 'Happy','Neutral', 'Sad','Surprise']
 
 Face Detection done by Caffe Resnet-SSD and  Face classification by CNN Keras. The face classification NN is trained on [Facial Expression Recognition dataset Challenge from Kaggle.](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
-Thanks a lot to  Adrian Rosebrock  for his great inspiring article on  Face  Detection
+Thanks a lot to  Adrian Rosebrock  for his great inspiring article on  [Face  Detection](https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
 
